@@ -1,0 +1,8 @@
+a few additional features:
+1. the words frame style.
+2. when you click on a word the color of the button changes, and when you
+   click submit the color changes back.
+3. we added a pop up window to ask the player at the end of the game if
+   he wants to play again
+4. you can change the time of the game in the construction of Game type
+   variable
